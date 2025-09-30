@@ -1,7 +1,7 @@
 #root {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: 0;
+  padding: 0;
 }
 
 .app-container {
@@ -29,10 +29,3 @@ main {
   flex: 1;
 }
 
-.app-footer {
-  margin-top: 2rem;
-  text-align: center;
-  padding: 1rem 0;
-  border-top: 1px solid #eee;
-  color: #7f8c8d;
-}

@@ -59,9 +59,7 @@ const VoltageCalculator: React.FC = () => {
   };
   
   return (
-    <div className="voltage-calculator">
-      <h2>Wire Voltage Drop Calculator</h2>
-      
+    <div className="voltage-calculator">      
       <div className="calculator-form">
         <div className="form-group">
           <label>Wire Gauge (AWG):</label>
